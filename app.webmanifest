@@ -2,5 +2,28 @@
   "name": "Code bombs, create code bombs and drop it !",
   "short_name": "CodeBombs",
   "start_url": "./",
-  "orientation": "all"
+  "orientation": "all",
+  "theme_color": "orange",
+  "scope": "./",
+  "display": "standalone",
+
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
