@@ -25,5 +25,14 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "description": "This app lets u drop bombs",
+  "screenshots": [
+    {
+      "src": "sc1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
